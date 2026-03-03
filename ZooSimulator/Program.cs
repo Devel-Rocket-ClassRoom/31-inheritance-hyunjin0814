@@ -27,3 +27,8 @@ Console.WriteLine();
 
 Console.WriteLine("[동물 행동]");
 Lion lion = (Lion)animals[0];
+Elephant elephant = (Elephant)animals[1];
+
+lion.Eat();
+lion.Hunt();
+
