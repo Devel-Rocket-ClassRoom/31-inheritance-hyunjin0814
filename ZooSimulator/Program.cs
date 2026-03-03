@@ -25,3 +25,5 @@ foreach (var animal in animals)
 }
 Console.WriteLine();
 
+Console.WriteLine("[동물 행동]");
+Lion lion = (Lion)animals[0];
